@@ -1,0 +1,17 @@
+﻿<Window x:Class="CubeTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CubeTimer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="825" Loaded="ShowDefaultScramble">
+    <Canvas KeyUp="StartTimer" >
+        <Label x:Name="label" Content="Scramble:" Height="44" Canvas.Left="32" Canvas.Top="37" Width="104" FontSize="20" VerticalContentAlignment="Center"/>
+        <Label x:Name="lblScramble" Content="Label" Height="44" Canvas.Left="141" Canvas.Top="37" Width="647" FontSize="20" HorizontalAlignment="Left" VerticalContentAlignment="Center"/>
+        <Label x:Name="lblTimer" Content="Ready" Height="196" Canvas.Left="32" Canvas.Top="104" Width="756" FontSize="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <ListBox x:Name="lstAllTimes" Height="171" Canvas.Left="32" Canvas.Top="361" Width="756"/>
+        <Button x:Name="btnStartStop" Content="Button" Height="51" Canvas.Left="710" Canvas.Top="300" Width="78" Click="TimerControl"/>
+
+    </Canvas>
+</Window>

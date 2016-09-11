@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\bin\Debug\CubeTimer.exe.config
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\bin\Debug\CubeTimer.exe
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\bin\Debug\CubeTimer.pdb
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\App.g.cs
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer_MarkupCompile.cache
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer_MarkupCompile.lref
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.g.resources
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.Properties.Resources.resources
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.exe
+C:\Users\user\Desktop\CITI\My\CubeTimer\CubeTimer\obj\Debug\CubeTimer.pdb
